@@ -1,0 +1,30 @@
+.image {
+    width: 15%;
+    margin: 20px 20px 20px 0;
+    float: left;
+}
+
+p {
+    font-family: "Lucida Console", Courier, monospace;
+}
+
+h2 {
+    color: mediumpurple;
+}
+
+body{
+    background-color: lightgoldenrodyellow;
+}
+
+.links {
+    color: darkred;
+    text-align:center;
+}
+
+a{
+    color: orange;
+    text-decoration: none;
+    display: block;
+    font-family: "Lucida Console", Courier, monospace;
+    margin: 10px 10px 10px 0;
+}
